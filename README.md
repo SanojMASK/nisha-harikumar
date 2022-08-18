@@ -1,1 +1,1 @@
-Deployed here: [harikumar-weds-nisha.netlify.app](https://harikumar-weds-nisha.netlify.app/)
+Deployed here: https://nisha-weds-harikumar.netlify.app/
